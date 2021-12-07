@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Sushi</title>
+    </head>
+    <body>
+    
+    <h1>Les Sushis</h1>
+    
+    <h3>Introduction</h3>
+    
+    <p>Les sushis, c'est de la nourriture japonaise composée
+    générallement d'une tranche de saumon sur du riz. Il y en a 
+    d'autres bien sur, certains avec du thon et même du thon rouge.<br></p>
+    Il y en a bien sur d'autre, les maki les principaux sont du
+    riz entourré d'algues avec de l'avocat et du thon dedans.
+    Il y en a aussi certains avec du gingembre 
+    <br>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/sushi.png" alt="Sushi de plusieurs sortes" height="151">
+    
+    <h3>Autre</h3>
+    
+    Bien évidamment, il y a des spécialités comme par exemple des 
+    algues qui entourent du riz avec des eux de saumons dessus.<br>
+    Il ya des espèces de tacos avec des aliment de sushi dedans.
+    
+    <h4>Merci d'avoir lu ma page.</h4>
+    
+
+
+    </body>
+</html>
